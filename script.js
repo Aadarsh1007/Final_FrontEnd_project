@@ -25,7 +25,7 @@ ScrollTrigger.scrollerProxy("#main", {
      start: "top 90%",
      end: "+=300",
      scrub: 2,
-     markers: true,
+     markers: false,
      scroller: '#main'
    }
  });
